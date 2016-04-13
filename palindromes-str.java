@@ -6,7 +6,7 @@ public class Ch9 {
      * Ch9 (Java) Assignment - Recursive String Palindromes
      */
      
-     */ Actually got in trouble for using reverse string on this one ... */
+     /** Actually got in trouble for using reverse string on this one ... */
     
     private static boolean paliCheck(String origStr) {
         if (origStr.length() > 2) {
